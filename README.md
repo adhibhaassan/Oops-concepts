@@ -8,7 +8,7 @@ It is a programming approach that organizes code into objects and classes and ma
 # Class
 It is an user-defined blueprint for creating objects which combines the variables and functions together into a single unit.
 
-# Objects
+# Object
 It is an instance of a class which contains the specific data and functions defined in a class.One class can have many objects.
 
 # Inheritance
