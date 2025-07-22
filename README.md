@@ -1,4 +1,7 @@
 # Oops-concepts
+![java-oops-concepts](https://github.com/user-attachments/assets/1963ff3e-c46e-4cce-8396-c0352acd612c)
+
+
 # Object Oriented Programming
 It is a programming approach that organizes code into objects and classes and makes it more structured, easy to manage and more secure. The core idea of OOPs is to bind data and the functions together and operate on it.
 
@@ -19,3 +22,5 @@ It stands for many forms. It means different objects can respond to the same com
 
 # Encapsulation
 It is bundling up data (like the watch's internal mechanisms) and the actions that operate on that data (like setting the time) into one neat package (the watch itself). It hides the complex internal workings from the outside world and only allows controlled access through specific, safe ways. This protects the data and makes the code easier to manage and fix.
+
+
